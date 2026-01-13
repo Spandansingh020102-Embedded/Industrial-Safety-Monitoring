@@ -62,18 +62,10 @@ g++ main.cpp -o app
 
 ---
 
-## 📜 License
-
-This project is open-source. See the `LICENSE` file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Spandan Singh**  
 C++ | Embedded Systems | IoT
 
 ---
-
-⭐ If this project helped you, consider giving it a star!
 
